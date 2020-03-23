@@ -1,4 +1,3 @@
-# NuclearFluctuations
-Code for analyzing nuclear (or any membrane) fluctuations over time.
-This code is essentially Yao's 3DMembraneReconstruction applied to time lapse images.
-Initial upload on 10/18/18 is the original code "3d contour code 011915".
+# 3DMembraneFluctuations
+Yao's code for analyzing 3D nuclear envelope fluctuations from z-stacks (.dv movies) of cells with fluorescently-labeled nuclei (e.g., Cut11-GFP).
+Pertinent code is found in both '3d membrane' and 'Archive' folders.
